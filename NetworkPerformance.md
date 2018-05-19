@@ -12,8 +12,12 @@ second line, backslash trailing
 and again \
 second line, space and backslash
 
-two spaces
-after that line (which get removed since I have remove trailing whitespace set)
+two spaces  
+after that line (which get removed since I have remove trailing whitespace set - now I can save that)
+
+using a html break<\br>
+will make a second line, but is the ugliest of all
+
 
 now about links
 
