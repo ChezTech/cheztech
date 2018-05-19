@@ -1,18 +1,17 @@
 
-
-
+[//]: # (Note: I need to wrap all bare links with angle brackets, <...> in order for GitHub to convert the .md into .html for static web pages.)
 
 Use NAS (Synology 918+) to test local network performance.
 
 use _iPerf3_
-* https://software.es.net/iperf/
-* https://github.com/esnet/iperf
+* <https://software.es.net/iperf/>
+* <https://github.com/esnet/iperf>
 
-found this topic: https://forum.synology.com/enu/viewtopic.php?f=27&t=115257
-user name of _jadahl_ compiled _iPerf3_ for Synology DSM
-His website is here: http://www.jadahl.com, binaries can be found here: http://www.jadahl.com/iperf/
+I found this topic: <https://forum.synology.com/enu/viewtopic.php?f=27&t=115257>\
+A user by the name of _jadahl_ compiled _iPerf3_ for Synology DSM\
+His website is here: <http://www.jadahl.com>, binaries can be found here: <http://www.jadahl.com/iperf/>
 
-I grabbed this version: http://www.jadahl.com/iperf/DSM_6.1/iperf_apollolake-6.1_3.2-1.spk
+I grabbed this version: <http://www.jadahl.com/iperf/DSM_6.1/iperf_apollolake-6.1_3.2-1.spk>
 
 Install in Synology using Package Center - Manual Install
 
@@ -20,15 +19,15 @@ Make sure `ssh` is enabled in Control Panel->Terminal & SNMP section
 
 
 Grab a _iPerf3_ build for your client
-* https://software.es.net/iperf/obtaining.html
+* <https://software.es.net/iperf/obtaining.html>
 
-Running: https://software.es.net/iperf/invoking.html
+Running: <https://software.es.net/iperf/invoking.html>
 
 Windows client - using Wi-Fi
 
 against a public iPerf server:
-* List here: https://iperf.fr/iperf-servers.php
-* https://iperf.scottlinux.com/
+* List here: <https://iperf.fr/iperf-servers.php>
+* This one seems nice: <https://iperf.scottlinux.com/>
 
 
 ```
@@ -56,7 +55,7 @@ iperf Done.
 
 
 Now, let's test locally.
-* https://fasterdata.es.net/performance-testing/network-troubleshooting-tools/iperf/
+* <https://fasterdata.es.net/performance-testing/network-troubleshooting-tools/iperf/>
 
 
 `ssh` into your NAS
