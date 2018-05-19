@@ -18,6 +18,9 @@ after that line (which get removed since I have remove trailing whitespace set -
 using a html break<\br>
 will make a second line, but is the ugliest of all
 
+used the wrong slash<br/>
+in the html break
+
 
 now about links
 
