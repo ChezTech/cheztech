@@ -1,6 +1,34 @@
 
 [//]: # (Note: I need to wrap all bare links with angle brackets, <...> in order for GitHub to convert the .md into .html for static web pages.)
 
+
+
+test line breaks
+second line, nothing special
+
+test again\
+second line, backslash trailing
+
+and again \
+second line, space and backslash
+
+two spaces
+after that line (which get removed since I have remove trailing whitespace set)
+
+now about links
+
+www.example.com
+
+http://www.example.com
+
+https://www.example.com
+
+https://github.com/esnet/iperf
+
+*https://github.com/esnet/iperf
+* https://github.com/esnet/iperf
+
+
 Use NAS (Synology 918+) to test local network performance.
 
 use _iPerf3_
