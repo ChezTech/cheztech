@@ -1,40 +1,4 @@
-
-[//]: # (Note: I need to wrap all bare links with angle brackets, <...> in order for GitHub to convert the .md into .html for static web pages.)
-
-
-
-test line breaks
-second line, nothing special
-
-test again\
-second line, backslash trailing
-
-and again \
-second line, space and backslash
-
-two spaces  
-after that line (which get removed since I have remove trailing whitespace set - now I can save that)
-
-using a html break<\br>
-will make a second line, but is the ugliest of all
-
-used the wrong slash<br/>
-in the html break
-
-
-now about links
-
-www.example.com
-
-http://www.example.com
-
-https://www.example.com
-
-https://github.com/esnet/iperf
-
-*https://github.com/esnet/iperf
-* https://github.com/esnet/iperf
-
+[//]: # (Note: I need to wrap all bare links with angle brackets, <...> in order for GitHub to convert the .md into .html for static web pages. -- Automatic links)
 
 Use NAS (Synology 918+) to test local network performance.
 
@@ -42,8 +6,8 @@ use _iPerf3_
 * <https://software.es.net/iperf/>
 * <https://github.com/esnet/iperf>
 
-I found this topic: <https://forum.synology.com/enu/viewtopic.php?f=27&t=115257>\
-A user by the name of _jadahl_ compiled _iPerf3_ for Synology DSM\
+I found this topic: <https://forum.synology.com/enu/viewtopic.php?f=27&t=115257>  
+A user by the name of _jadahl_ compiled _iPerf3_ for Synology DSM  
 His website is here: <http://www.jadahl.com>, binaries can be found here: <http://www.jadahl.com/iperf/>
 
 I grabbed this version: <http://www.jadahl.com/iperf/DSM_6.1/iperf_apollolake-6.1_3.2-1.spk>
